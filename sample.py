@@ -1,6 +1,5 @@
 import sys
 import requests
-import xml.etree.ElementTree as ElementTree
 
 
 Posturl = "https://teht.hometax.go.kr/wqAction.do?actionId=ATTABZAA001R08&screenId=UTEABAAA13&popupYn=false&realScreenId="
